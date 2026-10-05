@@ -45,11 +45,11 @@ https://dethich.pw/thvl1/index.m3u8
 https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="THVL",THVL3
 https://dethich.pw/thvl3/index.m3u8
-#EXTINF:-1 group-title="Other",ESPN
+#EXTINF:-1 group-title="Sports",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Sports",ESPN3
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 group-title="Other",ESPN4
+#EXTINF:-1 group-title="Sports",ESPN4
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Other",FUBO
+#EXTINF:-1 group-title="Sports",FUBO
 https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
